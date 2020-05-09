@@ -1,0 +1,17 @@
+{
+  "name": "memebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Ellison",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.1",
+    "file-system": "^2.2.2",
+    "request": "^2.88.2",
+    "xmlhttprequest": "^1.8.0"
+  }
+}

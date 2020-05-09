@@ -1,0 +1,12 @@
+/bin/*
+/node_modules/*
+storage/
+
+config.json
+database.json
+database.dev.json
+database.prod.json
+config.dev.json
+confid.prod.json
+
+token.js
