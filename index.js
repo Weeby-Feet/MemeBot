@@ -106,7 +106,7 @@ function caption_meme(message) {
   var formData = {
     template_id : args[1],
     username : "Weeby-Feet",
-    password : "bottyboy",
+    password : "PASSWORD",
     text0 : args[2],
     text1 : args[3],
     boxes : boxArr
