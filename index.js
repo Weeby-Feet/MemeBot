@@ -1,4 +1,4 @@
-const Discord = require('Discord.js');
+const Discord = require('discord.js');
 const bot = new Discord.Client();
 
 const token = require('./token.js').token;
@@ -106,7 +106,7 @@ function caption_meme(message) {
   var formData = {
     template_id : args[1],
     username : "Weeby-Feet",
-    password : "PASSWORD", //be sure to add your own username and password
+    password : "feelslikesomememes", //be sure to add your own username and password
     text0 : args[2],
     text1 : args[3],
     boxes : boxArr
